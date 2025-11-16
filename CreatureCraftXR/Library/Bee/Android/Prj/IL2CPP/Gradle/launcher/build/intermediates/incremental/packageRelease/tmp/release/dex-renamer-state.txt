@@ -1,0 +1,4 @@
+#Sat Nov 15 19:49:39 PST 2025
+base.0=/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

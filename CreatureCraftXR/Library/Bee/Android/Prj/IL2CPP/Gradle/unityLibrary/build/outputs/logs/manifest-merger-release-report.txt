@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		INJECTED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:101-147
+	xmlns:android
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:42-100
+	android:installLocation
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:11-41
+supports-gl-texture#GL_KHR_texture_compression_astc_ldr
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:3-77
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:24-74
+uses-permission#com.oculus.permission.HAND_TRACKING
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:3-73
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:20-70
+uses-permission#com.oculus.permission.USE_ANCHOR_API
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:3-74
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:20-71
+uses-permission#com.oculus.permission.USE_SCENE
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:3-69
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:20-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:3-65
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:20-62
+uses-feature#android.hardware.vr.headtracking
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:3-111
+	android:version
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:89-108
+	android:required
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:65-88
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:17-64
+uses-feature#oculus.software.handtracking
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:3-88
+	android:required
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:61-85
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:17-60
+uses-feature#android.hardware.vulkan.version
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:3-90
+	android:required
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:64-87
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:3-88
+	android:required
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:61-85
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:3-99
+	android:required
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:72-96
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:3-108
+	android:required
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:81-105
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:17-80
+application
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:3-40:17
+	android:extractNativeLibs
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:71-103
+	android:label
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:136-168
+	android:appCategory
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:44-70
+	android:icon
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:104-135
+	android:allowBackup
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:16-43
+	android:networkSecurityConfig
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:169-224
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:5-89
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:65-86
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:16-64
+meta-data#com.oculus.handtracking.frequency
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:5-87
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:65-84
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:16-64
+meta-data#com.oculus.ossplash.background
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:5-103
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:62-100
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:16-61
+meta-data#com.oculus.telemetry.project_guid
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:5-120
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:65-117
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:16-64
+meta-data#com.oculus.supportedDevices
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:5-138
+	tools:replace
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:16-45
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:89-135
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:46-88
+meta-data#unity.splash-mode
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:5-69
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:49-66
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:21:5-74
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:21:51-71
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:21:16-50
+meta-data#unity.launch-fullscreen
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:5-78
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:55-75
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:16-54
+meta-data#unity.render-outside-safearea
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:5-84
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:61-81
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:16-60
+meta-data#notch.config
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:5-81
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:44-78
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:5-84
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:61-81
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:16-60
+meta-data#unity.strip-engine-code
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:26:5-78
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:26:55-75
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:26:16-54
+meta-data#unity.auto-set-game-state
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:27:5-80
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:27:57-77
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:27:16-56
+activity#com.unity3d.player.UnityPlayerGameActivity
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:5-39:16
+	android:screenOrientation
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:438-475
+	android:enabled
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:197-219
+	android:excludeFromRecents
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:220-253
+	android:launchMode
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:314-345
+	android:hardwareAccelerated
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:278-313
+	android:exported
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:254-277
+	android:resizeableActivity
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:404-437
+	android:configChanges
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:15-196
+	android:theme
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:476-535
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:346-403
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:29:7-33:23
+category#android.intent.category.LAUNCHER
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:30:9-69
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:30:19-66
+category#com.oculus.intent.category.VR
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:31:9-66
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:31:19-63
+action#android.intent.action.MAIN
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:32:17-58
+meta-data#com.oculus.vr.focusaware
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:34:7-81
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:34:58-78
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:34:18-57
+meta-data#WindowManagerPreference:FreeformWindowSize
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:35:7-130
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:35:76-127
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:35:18-75
+meta-data#WindowManagerPreference:FreeformWindowOrientation
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:36:7-145
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:36:83-142
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:36:18-82
+meta-data#notch_support
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:37:7-70
+	android:value
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:37:47-67
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:37:18-46
+layout
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:38:7-68
+	android:minWidth
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:38:41-65
+	android:minHeight
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:38:15-40
+uses-feature#com.oculus.feature.PASSTHROUGH
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:41:3-90
+	android:required
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:41:63-87
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:41:17-62
+uses-permission#horizonos.permission.HEADSET_CAMERA
+ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:42:3-73
+	android:name
+		ADDED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:42:20-70
+uses-sdk
+INJECTED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml

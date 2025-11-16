@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.UnityTechnologies.XR.Manifest" >
+4
+5    <uses-sdk android:minSdkVersion="32" />
+6
+7    <uses-feature
+7-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:9:3-111
+8        android:name="android.hardware.vr.headtracking"
+8-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:9:17-64
+9        android:required="true"
+9-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:9:65-88
+10        android:version="1" />
+10-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:9:89-108
+11    <uses-feature
+11-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:10:3-87
+12        android:name="oculus.software.eye_tracking"
+12-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:10:17-60
+13        android:required="true" />
+13-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:10:61-84
+14
+15    <uses-permission android:name="com.oculus.permission.EYE_TRACKING" />
+15-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:11:3-72
+15-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:11:20-69
+16
+17    <uses-feature
+17-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:12:3-89
+18        android:name="com.oculus.feature.PASSTHROUGH"
+18-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:12:17-62
+19        android:required="true" />
+19-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:12:63-86
+20
+21    <uses-permission android:name="com.oculus.permission.IMPORT_EXPORT_IOT_MAP_DATA" />
+21-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:13:3-86
+21-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:13:20-83
+22    <uses-permission android:name="com.oculus.permission.USE_SCENE" />
+22-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:14:3-69
+22-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:14:20-66
+23    <uses-permission android:name="com.oculus.permission.USE_ANCHOR_API" />
+23-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:15:3-74
+23-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:15:20-71
+24    <uses-permission android:name="com.oculus.permission.BOUNDARY_VISIBILITY" />
+24-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:16:3-79
+24-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:16:20-76
+25    <uses-permission android:name="com.oculus.permission.USE_COLOCATION_DISCOVERY_API" />
+25-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:17:3-88
+25-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:17:20-85
+26
+27    <application>
+27-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:3:3-8:17
+28        <activity
+28-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:4:5-6:16
+29            android:name="com.unity3d.player.UnityPlayerGameActivity"
+29-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:4:15-72
+30            android:exported="true" >
+30-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:4:73-96
+31            <meta-data
+31-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:5:7-81
+32                android:name="com.oculus.vr.focusaware"
+32-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:5:18-57
+33                android:value="true" />
+33-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:5:58-78
+34        </activity>
+35
+36        <meta-data
+36-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:7:5-113
+37            android:name="com.oculus.supportedDevices"
+37-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:7:16-58
+38            android:value="quest|quest2|cambria|eureka|quest3s" />
+38-->/Users/birdie/CreatureCraftXR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/AndroidManifest.xml:7:59-110
+39    </application>
+40
+41</manifest>
