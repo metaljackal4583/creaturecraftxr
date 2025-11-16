@@ -1,0 +1,4 @@
+/Applications/Unity/Hub/Editor/6000.2.10f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/birdie/CreatureCraftXR/.utmp/RelWithDebInfo/5e3q545a/arm64-v8a \
+  game
